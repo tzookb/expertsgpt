@@ -1,4 +1,4 @@
-package roles
+package experts
 
 type ProductManager struct {
 	intro string
